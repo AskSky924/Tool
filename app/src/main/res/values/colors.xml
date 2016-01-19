@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="font_color">#606060</color>
+    <color name="divider_line">#999fac</color>
+    <!--2048-->
+    <color name="text_white">#fff6f2</color>
+    <color name="text_black">#996e65</color>
+    <color name="text_brown">#d8cdc4</color>
+    <color name="background_2048">#eef8ef</color>
+
+    <color name="rubber">#FFFFFF</color>
+    <color name="color1">#FF0000</color>
+    <color name="color2">#00FF00</color>
+    <color name="color3">#0000FF</color>
+    <color name="color4">#000000</color>
+    <color name="color5">#FFFF00</color>
+    <color name="color6">#FFC125</color>
+    <color name="color7">#FF6A6A</color>
+    <color name="color8">#EE30A7</color>
+    <color name="color9">#D2691E</color>
+    <color name="color10">#1E90FF</color>
+    <color name="color11">#8B0000</color>
+    <color name="color12">#8B5A00</color>
+    <color name="color13">#8B8B00</color>
+    <color name="color14">#8EE5EE</color>
+    <color name="color15">#999fac</color>
+    <color name="color16">#999fac</color>
+    <color name="color17">#999fac</color>
+    <color name="color18">#999fac</color>
+    <color name="color19">#999fac</color>
+    <color name="color20">#999fac</color>
+    <color name="color21">#999fac</color>
+    <color name="color22">#999fac</color>
+    <color name="color23">#999fac</color>
+    <color name="color24">#999fac</color>
+    <color name="color25">#999fac</color>
+    <color name="color26">#999fac</color>
+    <color name="color27">#999fac</color>
+    <color name="color28">#999fac</color>
+
+
+</resources>
